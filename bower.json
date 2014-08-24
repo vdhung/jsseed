@@ -1,0 +1,29 @@
+{
+  "name": "javascript app seed",
+  "version": "0.0.1",
+  "authors": [
+    "https://github.com/nguyenthenguyen"
+  ],
+  "description": "include: nodejs with expressJs framework, mongodb, redis, socketIo in backen. RequireJs with angularjs, bootstrap in frondend",
+  "main": "app.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "nodejs",
+    "angularjs",
+    "requirejs",
+    "mongodb",
+    "redis",
+    "socketIo"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
